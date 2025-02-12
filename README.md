@@ -48,7 +48,7 @@ print(InputChecker.checkForWithExtraInfos("Hello123!", Letters=True, Numbers=Tru
 
 ### RandomValues.py
 This script provides functions to generate random values, such as random numbers, strings, and other data types. It is useful for testing and generating sample data.
-A more detailed function test is inside the RandomValues.py file.
+A more detailed function test is inside the RandomValues.py file. (Generated Data is in German)
 
 #### Example Usage:
 ```python
